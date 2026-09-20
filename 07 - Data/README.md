@@ -1,14 +1,19 @@
 # Data
 
-This directory contains machine-readable project data.
+Machine-readable project data lives here.
 
-## Inventory
+## Files
 
-`inventory.json` is the canonical staging record for the intended media universe. It is intentionally empty until the authoritative to-add list is available in the current project inputs.
+- inventory.json — canonical staged media inventory.
+- inventory.schema.json — schema for the inventory structure.
+- media.schema.json — schema for individual media records.
+- Build Manifest.json — machine-readable build state and validation summary.
+- Inventory Intake.md — rules for bringing the authoritative media list into the project.
 
-Inventory rules:
+## Inventory rule
 
-- Do not import unrelated historical media.
-- Expand cover groups only when their intended scope is clear.
-- Deduplicate before creating canonical media records.
-- Preserve uncertainty instead of fabricating metadata.
+inventory.json must be populated only from the authoritative to-add list supplied for this build or an explicit later addition.
+
+Do not reconstruct the inventory from historical projects, previous conversations, model memory, or guesses.
+
+Before canonical media folders are created, inventory entries should be normalized, deduplicated, classified, and verified.
