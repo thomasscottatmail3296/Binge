@@ -227,3 +227,19 @@ Continue grouped identity verification, then begin canonical media record creati
 ### Next step
 
 Continue Marvel identity verification, especially LEGO entries, remaining direct-to-video/television productions, animated-series boundaries, and same-title productions.
+
+
+## Batch 012 — Remaining Hulk television-film verification
+
+**Date:** 2026-09-20
+
+- Verified **The Incredible Hulk Returns** as the 1988 television film.
+- Verified **The Trial of the Incredible Hulk** as the 1989 television film.
+- Confirmed these are distinct from the 1977 **The Return of the Incredible Hulk** pilot sequel.
+- Existing metadata for **The Death of the Incredible Hulk** (1990) and **The Incredible Hulk: Married** (1978 special) was retained.
+- Inventory remains at 405 media records.
+- No physical media or episode folders were generated.
+- No speculative titles were added.
+
+### Next step
+Continue remaining Marvel same-title and short/special/direct-to-video verification before canonical media-folder generation.
