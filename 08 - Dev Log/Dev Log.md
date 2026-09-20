@@ -243,3 +243,18 @@ Continue Marvel identity verification, especially LEGO entries, remaining direct
 
 ### Next step
 Continue remaining Marvel same-title and short/special/direct-to-video verification before canonical media-folder generation.
+
+
+## Batch 013 — Marvel short-form identity verification
+
+**Date:** 2026-09-20
+
+- Identified the supplied **Captain America** short-form record as the 1944 Republic Pictures theatrical serial.
+- Identified the supplied **Spider-Man** short-form record as the 1978 Toei theatrical production.
+- Both remain separate from same-title television and feature productions.
+- Inventory remains at 405 media records.
+- No physical media or episode folders were generated.
+- No speculative titles were added.
+
+### Next step
+Continue Marvel boundary verification and then broaden verification to the remaining authoritative inventory before physical vault generation.
