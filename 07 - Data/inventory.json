@@ -144,7 +144,10 @@
       "id": "extra-gear",
       "title": "Extra Gear",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2016,
+      "status": "ended",
+      "media_type": "web_series"
     },
     {
       "id": "from",
@@ -270,7 +273,8 @@
       "id": "minecraft-story-mode",
       "title": "Minecraft: Story Mode",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Telltale; Minecraft Wiki",
+      "media_type": "episodic_narrative_game"
     },
     {
       "id": "ncis",
@@ -318,7 +322,10 @@
       "id": "president-curtis",
       "title": "President Curtis",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "tv_series"
     },
     {
       "id": "reacher",
@@ -354,7 +361,10 @@
       "id": "sassy-the-sasquatch",
       "title": "Sassy the Sasquatch",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Tubi; IMDb",
+      "release_year": 2022,
+      "status": "ended",
+      "media_type": "web_series"
     },
     {
       "id": "shameless",
@@ -2442,7 +2452,10 @@
       "id": "the-backrooms",
       "title": "The Backrooms",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2022,
+      "status": "ongoing",
+      "media_type": "web_series"
     },
     {
       "id": "how-to-train-your-dragon-live-action-2025",
@@ -2515,5 +2528,5 @@
       "source": "authoritative-list"
     }
   ],
-  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate."
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 adds targeted identity/type verification for selected web, game, and animated-series entries."
 }
