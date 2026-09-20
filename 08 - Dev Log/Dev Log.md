@@ -137,3 +137,34 @@ Once the authoritative inventory exists, capture it in 07 - Data/inventory.json,
 - Added the initial machine-readable Build Manifest.
 - Added the persistent Dev Log.
 - Deliberately did not create media records, episode folders, fake supporting directories, speculative metadata, or plugin configuration.
+
+## Batch 009 — Selected media identity verification
+
+**Date:** 2026-09-20  
+**Scope:** Targeted external verification of ambiguous web, animated-series, and non-TV entries before physical media construction.
+
+- Verified Extra Gear as a British online Top Gear companion series (4 series / 24 episodes) and recorded it as a web series.
+- Verified Sassy the Sasquatch as a 2022 animated web/TV series and recorded its six-episode first season.
+- Verified The Backrooms as Kane Pixels' YouTube web series beginning in 2022.
+- Verified President Curtis as the Adult Swim Rick and Morty spin-off associated with 2026.
+- Verified Minecraft: Story Mode as an episodic narrative game; retained it because it was explicitly supplied, while recording its non-TV nature in media_type.
+- Added the detailed Batch 009 verification report.
+- No media folders or episode folders were generated in this batch.
+
+### Validation
+
+- Inventory remains at 406 media records.
+- No new titles were introduced.
+- No exact duplicate records were introduced.
+- No supporting asset folders were fabricated.
+- Full inventory verification remains incomplete.
+
+### Known issues
+
+- Marvel same-title productions and short/special boundaries still require systematic verification.
+- Several ambiguous supplied titles still require source matching.
+- Minecraft: Story Mode requires a later structural decision about non-video game content; no move was made yet.
+
+### Next step
+
+Continue grouped identity verification, then begin canonical media record creation only after the inventory is sufficiently stable.
