@@ -2,6 +2,38 @@
 
 This folder records meaningful Binge build batches.
 
+## Batch 011 — Marvel specials, pilots, and legacy television-film verification
+
+**Date:** 2026-09-20  
+**Scope:** Continue Marvel identity verification, focusing on LEGO Marvel entries, legacy television films/compilations, pilot/special boundaries, and same-production duplicates.
+
+- Verified LEGO Marvel Avengers: Code Red (2023) and LEGO Marvel Avengers: Mission Demolition (2024) as animated specials.
+- Verified LEGO Marvel Avengers: Strange Tails (2025) as an animated series with a season/episode structure.
+- Verified Dr. Strange (1978), The Death of the Incredible Hulk (1990), and The Return of the Incredible Hulk (1977) as distinct television-film productions.
+- Reclassified The Incredible Hulk: Married (1978) as a television special.
+- Verified Spider-Man Strikes Back (1978) and Spider-Man: The Dragon's Challenge (1981) as feature-length compilations of Amazing Spider-Man episodes.
+- Verified Blade: House of Chthon as the feature-length pilot/DVD presentation of Blade: The Series.
+- Verified Nightman: World Premiere as the two-part 1997 television pilot and retained it as a special/pilot.
+- Deduplicated the supplied Inhumans movie record because its IMAX release consisted of the first two episodes of the same 2017 television series rather than a separate production.
+- No new titles were introduced.
+- No physical media or episode folders were created.
+
+### Validation
+
+- Inventory media count: **405**
+- Episode count: **0**
+- Physical media folders: **0**
+- Supporting asset folders: **0**
+- No speculative titles added.
+
+### Next step
+
+Continue remaining Marvel same-title and short/special boundaries, then proceed toward broader inventory verification before canonical media-folder generation.
+
+# Dev Log
+
+This folder records meaningful Binge build batches.
+
 ## Batch 008 — Initial targeted external verification
 
 **Date:** 2026-09-20  
