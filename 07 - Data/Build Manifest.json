@@ -2,16 +2,12 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 4,
-  "file_count": 20,
-  "markdown_count": 16,
+  "latest_batch": 6,
+  "file_count": 25,
+  "markdown_count": 20,
   "media_count": 0,
   "episode_count": 0,
-  "validation": {
-    "status": "schema-ready",
-    "errors": 0,
-    "warnings": 0
-  },
+  "validation": {"status": "schema-ready", "errors": 0, "warnings": 0},
   "known_issues": [
     "Media inventory has not been populated.",
     "Obsidian plugin configuration has not been added.",

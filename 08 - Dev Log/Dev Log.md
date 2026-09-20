@@ -2,6 +2,42 @@
 
 This folder records meaningful Binge build batches.
 
+## Batch 006 — Manifest reconciliation after inventory-intake foundation
+
+**Date:** 2026-09-20  
+**Scope:** Reconcile machine-readable build counts with the repository after Batch 005 and verify that no speculative media entered the project.
+
+- Updated 07 - Data/Build Manifest.json to reflect the current repository tree.
+- Updated latest batch to 6.
+- Corrected repository totals to 25 files and 20 Markdown files.
+- Confirmed media count remains 0.
+- Confirmed episode count remains 0.
+- Confirmed no cover-group records have been introduced.
+- Confirmed the authoritative inventory remains intentionally empty.
+- No media folders, episode folders, or fabricated metadata were created.
+
+### Validation
+
+Current repository contains the complete initialization/data-intake foundation plus the Batch 005 intake documentation. The manifest now matches the tree state.
+
+### Known blocker
+
+The authoritative to-add media list is still not present in the current project inputs. Media construction must not begin until that inventory is supplied.
+
+### Next step
+
+Once the authoritative inventory exists, capture it in 07 - Data/inventory.json, then normalize, deduplicate, classify, research, and verify it before canonical media creation.
+
+## Batch 005 — Inventory intake contract
+
+**Date:** 2026-09-20  
+**Scope:** Establish a precise intake contract for the authoritative media inventory without creating speculative media.
+
+- Added 07 - Data/Inventory Intake.md.
+- Expanded 07 - Data/README.md to document the complete inventory pipeline.
+- Defined capture, classification, normalization, deduplication, cover-group expansion, verification, and approval stages.
+- Explicitly documented that historical projects, previous conversations, model memory, and inferred titles are not valid inventory sources for this from-scratch build.
+
 ## Batch 004 — Validator consistency correction
 
 **Date:** 2026-09-20  
@@ -31,9 +67,9 @@ This folder records meaningful Binge build batches.
 **Date:** 2026-09-20  
 **Scope:** Initial machine-readable inventory staging and structural validation.
 
-- Added `07 - Data/inventory.json` as the canonical inventory staging file.
-- Added `07 - Data/README.md` documenting inventory rules.
-- Added the initial `scripts/validate_vault.py` validator.
+- Added 07 - Data/inventory.json as the canonical inventory staging file.
+- Added 07 - Data/README.md documenting inventory rules.
+- Added the initial scripts/validate_vault.py validator.
 - Added the Batch 002 report.
 - Corrected the manifest counts to reflect the actual 15-file foundation.
 - Media inventory intentionally remains empty; no historical media was imported.
