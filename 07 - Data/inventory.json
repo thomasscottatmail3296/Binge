@@ -2020,7 +2020,10 @@
       "id": "marvel-rising-secret-warriors",
       "title": "Marvel Rising: Secret Warriors",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Marvel; Disney+; Wikipedia",
+      "release_year": 2018,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "dr-strange",
@@ -2032,13 +2035,19 @@
       "id": "captain-america",
       "title": "Captain America",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 1979,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "captain-america-ii-death-too-soon",
       "title": "Captain America II: Death Too Soon",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 1979,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "the-incredible-hulk-returns",
@@ -2056,7 +2065,10 @@
       "id": "the-punisher-marvel-tv-film",
       "title": "The Punisher",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; Tubi",
+      "release_year": 1989,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "the-death-of-the-incredible-hulk",
@@ -2068,43 +2080,64 @@
       "id": "captain-america-marvel-tv-film",
       "title": "Captain America",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 1990,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "the-fantastic-four",
       "title": "The Fantastic Four",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1994,
+      "status": "unreleased",
+      "media_type": "unreleased_feature_film"
     },
     {
       "id": "generation-x",
       "title": "Generation X",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 1996,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "nick-fury-agent-of-shield",
       "title": "Nick Fury: Agent of S.H.I.E.L.D.",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 1998,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "man-thing",
       "title": "Man-Thing",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2005,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "spider-man-marvel-tv-film",
       "title": "Spider-Man",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1977,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "the-incredible-hulk-marvel-tv-film",
       "title": "The Incredible Hulk",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 1977,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "return-of-the-incredible-hulk",
@@ -2289,8 +2322,11 @@
     {
       "id": "marvel-rising-chasing-ghosts",
       "title": "Marvel Rising: Chasing Ghosts",
-      "type": "short",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel; Wikipedia",
+      "release_year": 2019,
+      "status": "released",
+      "media_type": "animated_special"
     },
     {
       "id": "spider-ham-caught-in-a-ham",
@@ -2301,14 +2337,20 @@
     {
       "id": "marvel-rising-heart-of-iron",
       "title": "Marvel Rising: Heart of Iron",
-      "type": "short",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel; Wikipedia",
+      "release_year": 2019,
+      "status": "released",
+      "media_type": "animated_special"
     },
     {
       "id": "marvel-rising-battle-of-the-bands",
       "title": "Marvel Rising: Battle of the Bands",
-      "type": "short",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel; Wikipedia",
+      "release_year": 2019,
+      "status": "released",
+      "media_type": "animated_special"
     },
     {
       "id": "a-blank-on-the-map",
@@ -2528,5 +2570,5 @@
       "source": "authoritative-list"
     }
   ],
-  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 adds targeted identity/type verification for selected web, game, and animated-series entries."
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 added targeted identity/type verification. Batch 010 adds Marvel television-film, feature-film, and Marvel Rising special identity metadata."
 }
