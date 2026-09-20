@@ -2,20 +2,24 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 6,
+  "latest_batch": 7,
   "file_count": 25,
   "markdown_count": 20,
-  "media_count": 0,
+  "media_count": 405,
   "episode_count": 0,
-  "validation": {"status": "schema-ready", "errors": 0, "warnings": 0},
+  "validation": {
+    "status": "inventory-captured",
+    "errors": 0,
+    "warnings": 0
+  },
   "known_issues": [
-    "Media inventory has not been populated.",
-    "Obsidian plugin configuration has not been added.",
-    "No external media metadata has been imported yet."
+    "Episode-level structures have not yet been built.",
+    "Media metadata has not yet been externally verified.",
+    "Obsidian plugin configuration has not been added."
   ],
   "next_planned_work": [
-    "Establish the intended media inventory.",
-    "Expand cover groups into individual media where required.",
-    "Deduplicate and verify titles before creating media records."
+    "Externally verify and normalize the captured inventory.",
+    "Create canonical media folders/notes after verification.",
+    "Build series seasons and episode structures from verified series metadata."
   ]
 }

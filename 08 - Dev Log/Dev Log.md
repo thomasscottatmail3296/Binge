@@ -2,6 +2,46 @@
 
 This folder records meaningful Binge build batches.
 
+## Batch 007 — Capture authoritative inventory
+
+**Date:** 2026-09-20  
+**Scope:** Capture the user-supplied authoritative media lists, expand the supplied cover groups, and remove duplicate copies without importing anything from the referenced “existing source” material.
+
+### Inventory capture
+
+- Captured the television/series list, existing films, and existing documentaries.
+- Captured the explicit Superwog: Son of a Donkey item as its own media record.
+- Materialized the supplied Star Trek, Toy Story, The Incredibles, How to Train Your Dragon, Mario, Scream, Avatar, Marvel, and David Attenborough cover expansions.
+- Did not use the “existing source” wording as an inventory source.
+- Did not infer unrelated titles.
+- Retained explicitly named future/scheduled projects rather than inventing unnamed projects.
+
+### Deduplication
+
+- Removed exact duplicate copies where the same production appeared in both a base list and an expansion.
+- Preserved distinct productions that share a display title, including the separate Scream films and separate same-title Marvel film/television/short productions.
+- Inventory now contains **405 media records**.
+
+### Current inventory counts
+
+- TV / series: 156
+- Movies: 203
+- Documentaries: 27
+- Shorts: 17
+- Specials: 2
+- Total: 405
+
+### Validation status
+
+- Inventory schema remains compatible with the current data model.
+- No episode folders or media folders have been created yet.
+- No supporting asset folders have been fabricated.
+- Metadata has not yet been externally verified at this stage.
+
+### Next step
+
+Externally verify and normalize the captured inventory, resolve any remaining production-identity ambiguities, then begin canonical media record creation and episode expansion.
+
 ## Batch 006 — Manifest reconciliation after inventory-intake foundation
 
 **Date:** 2026-09-20  

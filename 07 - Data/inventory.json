@@ -999,22 +999,11 @@
       "source": "authoritative-list"
     },
     {
-      "id": "the-incredibles-incredibles",
-      "title": "The Incredibles",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
-      "id": "incredibles-2-incredibles",
-      "title": "Incredibles 2",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
       "id": "incredibles-3",
       "title": "Incredibles 3",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list",
+      "status": "scheduled"
     },
     {
       "id": "dreamworks-dragons",
@@ -1036,24 +1025,6 @@
     },
     {
       "id": "how-to-train-your-dragon-httyd-live-action",
-      "title": "How to Train Your Dragon",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
-      "id": "how-to-train-your-dragon-2-httyd-animated",
-      "title": "How to Train Your Dragon 2",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
-      "id": "how-to-train-your-dragon-the-hidden-world-httyd-animated",
-      "title": "How to Train Your Dragon: The Hidden World",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
-      "id": "how-to-train-your-dragon-httyd-original",
       "title": "How to Train Your Dragon",
       "type": "movie",
       "source": "authoritative-list"
@@ -2530,5 +2501,5 @@
       "source": "authoritative-list"
     }
   ],
-  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media."
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate."
 }
