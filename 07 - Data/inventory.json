@@ -1294,7 +1294,10 @@
       "id": "inhumans",
       "title": "Inhumans",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Marvel; Wikipedia",
+      "media_type": "tv_series",
+      "release_year": 2017,
+      "status": "ended"
     },
     {
       "id": "runaways",
@@ -1407,20 +1410,29 @@
     {
       "id": "lego-marvel-avengers-code-red",
       "title": "LEGO Marvel Avengers: Code Red",
-      "type": "tv_show",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel; Disney+",
+      "media_type": "animated_special",
+      "release_year": 2023,
+      "status": "released"
     },
     {
       "id": "lego-marvel-avengers-mission-demolition",
       "title": "LEGO Marvel Avengers: Mission Demolition",
-      "type": "tv_show",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel; Disney+",
+      "media_type": "animated_special",
+      "release_year": 2024,
+      "status": "released"
     },
     {
       "id": "lego-marvel-avengers-strange-tails",
       "title": "LEGO Marvel Avengers: Strange Tails",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Marvel; Disney+",
+      "media_type": "animated_series",
+      "release_year": 2025,
+      "status": "released"
     },
     {
       "id": "marvels-iron-man-and-his-awesome-friends",
@@ -2029,7 +2041,10 @@
       "id": "dr-strange",
       "title": "Dr. Strange",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "media_type": "television_film",
+      "release_year": 1978,
+      "status": "released"
     },
     {
       "id": "captain-america",
@@ -2074,7 +2089,10 @@
       "id": "the-death-of-the-incredible-hulk",
       "title": "The Death of the Incredible Hulk",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb; Wikipedia",
+      "media_type": "television_film",
+      "release_year": 1990,
+      "status": "released"
     },
     {
       "id": "captain-america-marvel-tv-film",
@@ -2143,43 +2161,55 @@
       "id": "return-of-the-incredible-hulk",
       "title": "Return of the Incredible Hulk",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb; Wikipedia",
+      "media_type": "television_film",
+      "release_year": 1977,
+      "status": "released"
     },
     {
       "id": "the-incredible-hulk-married",
       "title": "The Incredible Hulk: Married",
-      "type": "movie",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; IMDb; TVmaze",
+      "media_type": "television_special",
+      "release_year": 1978,
+      "status": "released"
     },
     {
       "id": "spider-man-strikes-back",
       "title": "Spider-Man Strikes Back",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb; Wikipedia",
+      "media_type": "television_film_compilation",
+      "release_year": 1978,
+      "status": "released"
     },
     {
       "id": "spider-man-the-dragons-challenge",
       "title": "Spider-Man: The Dragon's Challenge",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb; Wikipedia",
+      "media_type": "television_film_compilation",
+      "release_year": 1981,
+      "status": "released"
     },
     {
       "id": "blade-house-of-chthon",
       "title": "Blade: House of Chthon",
       "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
-      "id": "inhumans-marvel-tv-film",
-      "title": "Inhumans",
-      "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; DVD documentation; Wikipedia",
+      "media_type": "feature_length_television_pilot",
+      "release_year": 2007,
+      "status": "released"
     },
     {
       "id": "nightman-world-premiere",
       "title": "Nightman: World Premiere",
-      "type": "movie",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Google Play TV",
+      "media_type": "television_pilot",
+      "release_year": 1997,
+      "status": "released"
     },
     {
       "id": "kick-ass",
@@ -2570,5 +2600,5 @@
       "source": "authoritative-list"
     }
   ],
-  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 added targeted identity/type verification. Batch 010 adds Marvel television-film, feature-film, and Marvel Rising special identity metadata."
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 added targeted identity/type verification. Batch 010 adds Marvel television-film, feature-film, and Marvel Rising special identity metadata. Batch 011 resolves additional Marvel pilot/special identities. LEGO Marvel Avengers: Code Red and Mission Demolition are animated specials; Strange Tails is an animated series. The supplied Inhumans movie entry was deduplicated against the 2017 television series because its IMAX release consisted of the first two series episodes rather than a separate production. Legacy Hulk, Spider-Man, Blade, Dr. Strange, and Nightman entries were normalized by production/release form."
 }
