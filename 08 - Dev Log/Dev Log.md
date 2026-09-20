@@ -168,3 +168,30 @@ Once the authoritative inventory exists, capture it in 07 - Data/inventory.json,
 ### Next step
 
 Continue grouped identity verification, then begin canonical media record creation only after the inventory is sufficiently stable.
+
+
+## Batch 010 — Verify Marvel legacy film identities
+
+**Date:** 2026-09-20  
+**Scope:** Verify Marvel legacy television films, feature films, and Marvel Rising special boundaries before physical media construction.
+
+- Distinguished Captain America (1979) from Captain America (1990).
+- Verified Captain America II: Death Too Soon (1979) as a separate television film.
+- Verified The Fantastic Four (1994) as an officially unreleased completed feature film.
+- Verified Generation X (1996), Nick Fury: Agent of S.H.I.E.L.D. (1998), Spider-Man (1977), and The Incredible Hulk (1977) as television-film productions.
+- Verified Man-Thing (2005) as a feature-length Marvel production with a U.S. television premiere.
+- Verified The Punisher (1989) as a distinct feature film.
+- Verified Marvel Rising: Secret Warriors as an animated television film and Chasing Ghosts, Heart of Iron, and Battle of the Bands as animated specials.
+- Changed those three Marvel Rising entries from `short` to `special` in the inventory.
+- No new titles were added and no duplicate productions were merged.
+
+### Validation
+
+- Inventory remains 406 media records.
+- No media or episode folders were created.
+- No supporting asset folders were fabricated.
+- Verification remains incomplete.
+
+### Next step
+
+Continue Marvel identity verification, especially LEGO entries, remaining direct-to-video/television productions, animated-series boundaries, and same-title productions.
