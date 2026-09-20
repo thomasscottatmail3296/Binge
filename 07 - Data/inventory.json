@@ -2281,13 +2281,19 @@
       "id": "captain-america-marvel-short",
       "title": "Captain America",
       "type": "short",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1944,
+      "status": "released",
+      "media_type": "theatrical_serial"
     },
     {
       "id": "spider-man-marvel-short",
       "title": "Spider-Man",
       "type": "short",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1978,
+      "status": "released",
+      "media_type": "animated_short_feature"
     },
     {
       "id": "the-consultant",
