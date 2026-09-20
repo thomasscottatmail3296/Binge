@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Binge Inventory",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["project", "status", "media", "cover_groups", "notes"],
+  "properties": {
+    "project": {"const": "Binge"},
+    "status": {"type": "string"},
+    "media": {"type": "array", "items": {"$ref": "media.schema.json"}},
+    "cover_groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "scope", "status"],
+        "properties": {
+          "name": {"type": "string", "minLength": 1},
+          "scope": {"type": "string", "minLength": 1},
+          "status": {"type": "string", "minLength": 1},
+          "source": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "notes": {"type": "string"}
+  }
+}

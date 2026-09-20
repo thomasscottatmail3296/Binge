@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Binge Media Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "type"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "type": {
+      "type": "string",
+      "enum": ["tv_show", "movie", "documentary", "documentary_series", "short", "miniseries", "special"]
+    },
+    "media_type": {"type": "string"},
+    "release_year": {"type": ["integer", "null"], "minimum": 1800},
+    "release_date": {"type": ["string", "null"]},
+    "status": {"type": ["string", "null"]},
+    "season": {"type": ["integer", "null"], "minimum": 0},
+    "episode": {"type": ["integer", "null"], "minimum": 0},
+    "runtime": {"type": ["integer", "null"], "minimum": 0},
+    "series": {"type": ["string", "null"]},
+    "franchise": {"type": ["string", "null"]},
+    "universe": {"type": ["string", "null"]},
+    "genres": {"type": "array", "items": {"type": "string"}},
+    "directors": {"type": "array", "items": {"type": "string"}},
+    "writers": {"type": "array", "items": {"type": "string"}},
+    "cast": {"type": "array", "items": {"type": "string"}},
+    "network": {"type": ["string", "null"]},
+    "studio": {"type": ["string", "null"]},
+    "streaming_service": {"type": ["string", "null"]},
+    "source": {"type": ["string", "null"]}
+  }
+}

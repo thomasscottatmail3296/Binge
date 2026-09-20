@@ -2,13 +2,13 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 1,
-  "file_count": 15,
+  "latest_batch": 3,
+  "file_count": 17,
   "markdown_count": 14,
   "media_count": 0,
   "episode_count": 0,
   "validation": {
-    "status": "initialized",
+    "status": "schema-ready",
     "errors": 0,
     "warnings": 0
   },
