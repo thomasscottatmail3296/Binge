@@ -1,0 +1,7 @@
+{
+  "project": "Binge",
+  "status": "awaiting-authoritative-inventory",
+  "media": [],
+  "cover_groups": [],
+  "notes": "Populate only from the authoritative to-add list supplied for this build. Do not infer the inventory from historical projects or memory."
+}
