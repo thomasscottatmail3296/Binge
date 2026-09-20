@@ -2,6 +2,18 @@
 
 This folder records meaningful Binge build batches.
 
+## Batch 004 — Validator consistency correction
+
+**Date:** 2026-09-20  
+**Scope:** Reconcile manifest counts with the actual repository tree and strengthen inventory validation.
+
+- Corrected manifest counts to 20 total files and 16 Markdown files.
+- Added schema files to validator required-file checks.
+- Added duplicate inventory-ID detection.
+- Added required ID/title checks for future inventory records.
+- Added manifest-to-inventory media count validation.
+- No media or episode records created.
+
 ## Batch 003 — Data schema and validator hardening
 
 **Date:** 2026-09-20  
@@ -36,11 +48,3 @@ This folder records meaningful Binge build batches.
 - Added the initial machine-readable Build Manifest.
 - Added the persistent Dev Log.
 - Deliberately did not create media records, episode folders, fake supporting directories, speculative metadata, or plugin configuration.
-
-### Open work
-
-1. Establish the authoritative media inventory.
-2. Expand cover groups where required.
-3. Deduplicate and verify the inventory.
-4. Create canonical media records and episode structures.
-5. Validate links and metadata after each meaningful batch.
