@@ -1,7 +1,2534 @@
 {
   "project": "Binge",
-  "status": "awaiting-authoritative-inventory",
-  "media": [],
-  "cover_groups": [],
-  "notes": "Populate only from the authoritative to-add list supplied for this build. Do not infer the inventory from historical projects or memory."
+  "status": "captured-authoritative-inventory",
+  "media": [
+    {
+      "id": "2-broke-girls",
+      "title": "2 Broke Girls",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "9-1-1",
+      "title": "9-1-1",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "9-1-1-lone-star",
+      "title": "9-1-1: Lone Star",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "american-dad",
+      "title": "American Dad!",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "attack-on-titan",
+      "title": "Attack on Titan",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "better-call-saul",
+      "title": "Better Call Saul",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "big-mouth",
+      "title": "Big Mouth",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "bojack-horseman",
+      "title": "BoJack Horseman",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "breaking-bad",
+      "title": "Breaking Bad",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "csi",
+      "title": "CSI",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "csi-miami",
+      "title": "CSI: Miami",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "chainsaw-man",
+      "title": "Chainsaw Man",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "chicago-fire",
+      "title": "Chicago Fire",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "chicago-med",
+      "title": "Chicago Med",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "chicago-pd",
+      "title": "Chicago P.D.",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "clarksons-farm",
+      "title": "Clarkson's Farm",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "class",
+      "title": "Class",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "classic-doctor-who",
+      "title": "Classic Doctor Who",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "cyberpunk-edgerunners",
+      "title": "Cyberpunk: Edgerunners",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "death-note",
+      "title": "Death Note",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "demon-slayer",
+      "title": "Demon Slayer",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "doctor-who",
+      "title": "Doctor Who",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "exploding-kittens",
+      "title": "Exploding Kittens",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "extra-gear",
+      "title": "Extra Gear",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "from",
+      "title": "FROM",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "failed-backdoor-pilots",
+      "title": "Failed Backdoor Pilots",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "family-guy",
+      "title": "Family Guy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "futurama",
+      "title": "Futurama",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "georgie-mandys-first-marriage",
+      "title": "Georgie & Mandy's First Marriage",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "gravity-falls",
+      "title": "Gravity Falls",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "greys-anatomy",
+      "title": "Grey's Anatomy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "grimm",
+      "title": "Grimm",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "house-md",
+      "title": "House M.D.",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "housos",
+      "title": "Housos",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "human-resources",
+      "title": "Human Resources",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "it-welcome-to-derry",
+      "title": "IT: Welcome to Derry",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "invincible",
+      "title": "Invincible",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "james-may-oh-cook",
+      "title": "James May: Oh Cook!",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "james-may-our-man-in",
+      "title": "James May: Our Man in...",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "k-9",
+      "title": "K-9",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "k-9-and-company",
+      "title": "K-9 and Company",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "lucifer",
+      "title": "Lucifer",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "manifest",
+      "title": "Manifest",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "minecraft-story-mode",
+      "title": "Minecraft: Story Mode",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ncis",
+      "title": "NCIS",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "new-doctor-who",
+      "title": "New Doctor Who",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "one-piece-live-action",
+      "title": "One Piece Live Action",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "one-punch-man",
+      "title": "One-Punch Man",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "orange-is-the-new-black",
+      "title": "Orange Is the New Black",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ouran-high-school-host-club",
+      "title": "Ouran High School Host Club",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "president-curtis",
+      "title": "President Curtis",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "reacher",
+      "title": "Reacher",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "red-dwarf",
+      "title": "Red Dwarf",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "rick-and-morty",
+      "title": "Rick and Morty",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "rick-and-morty-the-anime",
+      "title": "Rick and Morty: The Anime",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spy-family",
+      "title": "SPY × FAMILY",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "sassy-the-sasquatch",
+      "title": "Sassy the Sasquatch",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "shameless",
+      "title": "Shameless",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "smiling-friends",
+      "title": "Smiling Friends",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "south-park",
+      "title": "South Park",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "stewie",
+      "title": "Stewie",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "stuck-in-the-middle",
+      "title": "Stuck in the Middle",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "stuck-in-the-store",
+      "title": "Stuck in the Store",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "supernatural",
+      "title": "Supernatural",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "supernatural-the-animation",
+      "title": "Supernatural: The Animation",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "superwog",
+      "title": "Superwog",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "tales-of-the-tardis",
+      "title": "Tales of the TARDIS",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "teen-titans-go",
+      "title": "Teen Titans Go!",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-amazing-world-of-gumball",
+      "title": "The Amazing World of Gumball",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-big-bang-theory",
+      "title": "The Big Bang Theory",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-boys",
+      "title": "The Boys",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-cleveland-show",
+      "title": "The Cleveland Show",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-grand-tour",
+      "title": "The Grand Tour",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-resident",
+      "title": "The Resident",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-sarah-jane-adventures",
+      "title": "The Sarah Jane Adventures",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-simpsons",
+      "title": "The Simpsons",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-summer-hikaru-died",
+      "title": "The Summer Hikaru Died",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-umbrella-academy",
+      "title": "The Umbrella Academy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-vindicators",
+      "title": "The Vindicators",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-walking-dead",
+      "title": "The Walking Dead",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-war-between-the-land-and-the-sea",
+      "title": "The War Between the Land and the Sea",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-winchesters",
+      "title": "The Winchesters",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "top-gear",
+      "title": "Top Gear",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "top-gear-america",
+      "title": "Top Gear America",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "top-gear-australia",
+      "title": "Top Gear Australia",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "top-gear-usa",
+      "title": "Top Gear USA",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "torchwood",
+      "title": "Torchwood",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "wheeler-dealers",
+      "title": "Wheeler Dealers",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "young-sheldon",
+      "title": "Young Sheldon",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "izombie",
+      "title": "iZombie",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "a-quiet-place",
+      "title": "A Quiet Place",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "a-quiet-place-part-ii",
+      "title": "A Quiet Place Part II",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "all-quiet-on-the-western-front",
+      "title": "All Quiet on the Western Front",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "arrival",
+      "title": "Arrival",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "finding-nemo",
+      "title": "Finding Nemo",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "garfield",
+      "title": "Garfield",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon",
+      "title": "How to Train Your Dragon",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-2",
+      "title": "How to Train Your Dragon 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-homecoming",
+      "title": "How to Train Your Dragon: Homecoming",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-the-hidden-world",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "incredibles-2",
+      "title": "Incredibles 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "interstellar",
+      "title": "Interstellar",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "mean-girls",
+      "title": "Mean Girls",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "megamind",
+      "title": "Megamind",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "oppenheimer",
+      "title": "Oppenheimer",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ponyo",
+      "title": "Ponyo",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ratatouille",
+      "title": "Ratatouille",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "smile-2",
+      "title": "Smile 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "snowpiercer",
+      "title": "Snowpiercer",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ted",
+      "title": "Ted",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ted-2",
+      "title": "Ted 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "teen-titans-go-to-the-movies",
+      "title": "Teen Titans Go! to the Movies",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-autopsy-of-jane-doe",
+      "title": "The Autopsy of Jane Doe",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-godfather",
+      "title": "The Godfather",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-godfather-part-ii",
+      "title": "The Godfather Part II",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-green-mile",
+      "title": "The Green Mile",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredibles",
+      "title": "The Incredibles",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-iron-giant",
+      "title": "The Iron Giant",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-matrix",
+      "title": "The Matrix",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-matrix-reloaded",
+      "title": "The Matrix Reloaded",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-mitchells-vs-the-machines",
+      "title": "The Mitchells vs. the Machines",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-simpsons-movie",
+      "title": "The Simpsons Movie",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-truman-show",
+      "title": "The Truman Show",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "up",
+      "title": "Up",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "wall-e",
+      "title": "WALL-E",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "bitcoin-the-documentary",
+      "title": "Bitcoin: The Documentary",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "jeffrey-epstein-filthy-rich",
+      "title": "Jeffrey Epstein: Filthy Rich",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-crash",
+      "title": "The Crash",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "trainwreck-the-astroworld-tragedy",
+      "title": "Trainwreck: The Astroworld Tragedy",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "trainwreck-poop-cruise",
+      "title": "Trainwreck: Poop Cruise",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-the-original-series",
+      "title": "Star Trek: The Original Series",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-the-animated-series",
+      "title": "Star Trek: The Animated Series",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-the-next-generation",
+      "title": "Star Trek: The Next Generation",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-deep-space-nine",
+      "title": "Star Trek: Deep Space Nine",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-voyager",
+      "title": "Star Trek: Voyager",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-enterprise",
+      "title": "Star Trek: Enterprise",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-discovery",
+      "title": "Star Trek: Discovery",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-short-treks",
+      "title": "Star Trek: Short Treks",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-picard",
+      "title": "Star Trek: Picard",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-lower-decks",
+      "title": "Star Trek: Lower Decks",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-prodigy",
+      "title": "Star Trek: Prodigy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-strange-new-worlds",
+      "title": "Star Trek: Strange New Worlds",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-starfleet-academy",
+      "title": "Star Trek: Starfleet Academy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-the-motion-picture",
+      "title": "Star Trek: The Motion Picture",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-ii-the-wrath-of-khan",
+      "title": "Star Trek II: The Wrath of Khan",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-iii-the-search-for-spock",
+      "title": "Star Trek III: The Search for Spock",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-iv-the-voyage-home",
+      "title": "Star Trek IV: The Voyage Home",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-v-the-final-frontier",
+      "title": "Star Trek V: The Final Frontier",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-vi-the-undiscovered-country",
+      "title": "Star Trek VI: The Undiscovered Country",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-generations",
+      "title": "Star Trek Generations",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-first-contact",
+      "title": "Star Trek: First Contact",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-insurrection",
+      "title": "Star Trek: Insurrection",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-nemesis",
+      "title": "Star Trek: Nemesis",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek",
+      "title": "Star Trek",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-beyond",
+      "title": "Star Trek Beyond",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "star-trek-section-31",
+      "title": "Star Trek: Section 31",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "toy-story",
+      "title": "Toy Story",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "toy-story-2",
+      "title": "Toy Story 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "toy-story-3",
+      "title": "Toy Story 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "toy-story-4",
+      "title": "Toy Story 4",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "toy-story-5",
+      "title": "Toy Story 5",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "lightyear",
+      "title": "Lightyear",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredibles-incredibles",
+      "title": "The Incredibles",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "incredibles-2-incredibles",
+      "title": "Incredibles 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "incredibles-3",
+      "title": "Incredibles 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dreamworks-dragons",
+      "title": "DreamWorks Dragons",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dragons-rescue-riders",
+      "title": "Dragons: Rescue Riders",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dragons-the-nine-realms",
+      "title": "Dragons: The Nine Realms",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-httyd-live-action",
+      "title": "How to Train Your Dragon",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-2-httyd-animated",
+      "title": "How to Train Your Dragon 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-the-hidden-world-httyd-animated",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-httyd-original",
+      "title": "How to Train Your Dragon",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-homecoming-httyd-special",
+      "title": "How to Train Your Dragon: Homecoming",
+      "type": "special",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "super-mario-bros-the-great-mission-to-rescue-princess-peach",
+      "title": "Super Mario Bros.: The Great Mission to Rescue Princess Peach!",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "super-mario-bros",
+      "title": "Super Mario Bros.",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-super-mario-bros-movie",
+      "title": "The Super Mario Bros. Movie",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-super-mario-galaxy-movie",
+      "title": "The Super Mario Galaxy Movie",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream",
+      "title": "Scream",
+      "type": "movie",
+      "release_year": 1996,
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-2",
+      "title": "Scream 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-3",
+      "title": "Scream 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-4",
+      "title": "Scream 4",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-scream-2022",
+      "title": "Scream",
+      "type": "movie",
+      "release_year": 2022,
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-vi",
+      "title": "Scream VI",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-7",
+      "title": "Scream 7",
+      "type": "movie",
+      "release_year": 2026,
+      "source": "authoritative-list"
+    },
+    {
+      "id": "scream-scream-series",
+      "title": "Scream",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avatar",
+      "title": "Avatar",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avatar-the-way-of-water",
+      "title": "Avatar: The Way of Water",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avatar-fire-and-ash",
+      "title": "Avatar: Fire and Ash",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avatar-4",
+      "title": "Avatar 4",
+      "type": "movie",
+      "status": "scheduled",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avatar-5",
+      "title": "Avatar 5",
+      "type": "movie",
+      "status": "scheduled",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "wandavision",
+      "title": "WandaVision",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier",
+      "title": "The Falcon and the Winter Soldier",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "loki",
+      "title": "Loki",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "hawkeye",
+      "title": "Hawkeye",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "moon-knight",
+      "title": "Moon Knight",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ms-marvel",
+      "title": "Ms. Marvel",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "she-hulk-attorney-at-law",
+      "title": "She-Hulk: Attorney-at-Law",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "secret-invasion",
+      "title": "Secret Invasion",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "echo",
+      "title": "Echo",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "agatha-all-along",
+      "title": "Agatha All Along",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ironheart",
+      "title": "Ironheart",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "daredevil-born-again",
+      "title": "Daredevil: Born Again",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "wonder-man",
+      "title": "Wonder Man",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-punisher-one-last-kill",
+      "title": "The Punisher: One Last Kill",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "daredevil",
+      "title": "Daredevil",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "jessica-jones",
+      "title": "Jessica Jones",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "luke-cage",
+      "title": "Luke Cage",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-fist",
+      "title": "Iron Fist",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-defenders",
+      "title": "The Defenders",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-punisher",
+      "title": "The Punisher",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "agents-of-shield",
+      "title": "Agents of S.H.I.E.L.D.",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "agent-carter",
+      "title": "Agent Carter",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "inhumans",
+      "title": "Inhumans",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "runaways",
+      "title": "Runaways",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "cloak-dagger",
+      "title": "Cloak & Dagger",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "legion",
+      "title": "Legion",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-gifted",
+      "title": "The Gifted",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "hit-monkey",
+      "title": "Hit-Monkey",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "modok",
+      "title": "M.O.D.O.K.",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "what-if",
+      "title": "What If...?",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-97",
+      "title": "X-Men '97",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "eyes-of-wakanda",
+      "title": "Eyes of Wakanda",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-zombies",
+      "title": "Marvel Zombies",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "i-am-groot",
+      "title": "I Am Groot",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-moon-girl-and-devil-dinosaur",
+      "title": "Marvel's Moon Girl and Devil Dinosaur",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-spidey-and-his-amazing-friends",
+      "title": "Marvel's Spidey and His Amazing Friends",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-avengers",
+      "title": "Marvel's Avengers",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-guardians-of-the-galaxy",
+      "title": "Marvel's Guardians of the Galaxy",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-spider-man",
+      "title": "Marvel's Spider-Man",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-rising",
+      "title": "Marvel Rising",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "lego-marvel-avengers-code-red",
+      "title": "LEGO Marvel Avengers: Code Red",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "lego-marvel-avengers-mission-demolition",
+      "title": "LEGO Marvel Avengers: Mission Demolition",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "lego-marvel-avengers-strange-tails",
+      "title": "LEGO Marvel Avengers: Strange Tails",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-iron-man-and-his-awesome-friends",
+      "title": "Marvel's Iron Man and His Awesome Friends",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvels-avengers-mightiest-friends",
+      "title": "Marvel's Avengers: Mightiest Friends",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "howard-the-duck",
+      "title": "Howard the Duck",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "blade",
+      "title": "Blade",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men",
+      "title": "X-Men",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "blade-ii",
+      "title": "Blade II",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man",
+      "title": "Spider-Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "daredevil-marvel-live",
+      "title": "Daredevil",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x2",
+      "title": "X2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "hulk",
+      "title": "Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-punisher-marvel-live",
+      "title": "The Punisher",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-2",
+      "title": "Spider-Man 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "blade-trinity",
+      "title": "Blade: Trinity",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "elektra",
+      "title": "Elektra",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "fantastic-four",
+      "title": "Fantastic Four",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-the-last-stand",
+      "title": "X-Men: The Last Stand",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ghost-rider",
+      "title": "Ghost Rider",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-3",
+      "title": "Spider-Man 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "fantastic-four-rise-of-the-silver-surfer",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man",
+      "title": "Iron Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredible-hulk",
+      "title": "The Incredible Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "punisher-war-zone",
+      "title": "Punisher: War Zone",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-origins-wolverine",
+      "title": "X-Men Origins: Wolverine",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man-2",
+      "title": "Iron Man 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thor",
+      "title": "Thor",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-first-class",
+      "title": "X-Men: First Class",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-the-first-avenger",
+      "title": "Captain America: The First Avenger",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ghost-rider-spirit-of-vengeance",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-avengers",
+      "title": "The Avengers",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-amazing-spider-man",
+      "title": "The Amazing Spider-Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man-3",
+      "title": "Iron Man 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-wolverine",
+      "title": "The Wolverine",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thor-the-dark-world",
+      "title": "Thor: The Dark World",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-the-winter-soldier",
+      "title": "Captain America: The Winter Soldier",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-amazing-spider-man-2",
+      "title": "The Amazing Spider-Man 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-days-of-future-past",
+      "title": "X-Men: Days of Future Past",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "guardians-of-the-galaxy",
+      "title": "Guardians of the Galaxy",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avengers-age-of-ultron",
+      "title": "Avengers: Age of Ultron",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ant-man",
+      "title": "Ant-Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "fantastic-four-marvel-live",
+      "title": "Fantastic Four",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "deadpool",
+      "title": "Deadpool",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-civil-war",
+      "title": "Captain America: Civil War",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "x-men-apocalypse",
+      "title": "X-Men: Apocalypse",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "doctor-strange",
+      "title": "Doctor Strange",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "logan",
+      "title": "Logan",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-homecoming",
+      "title": "Spider-Man: Homecoming",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thor-ragnarok",
+      "title": "Thor: Ragnarok",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "black-panther",
+      "title": "Black Panther",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avengers-infinity-war",
+      "title": "Avengers: Infinity War",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "deadpool-2",
+      "title": "Deadpool 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ant-man-and-the-wasp",
+      "title": "Ant-Man and the Wasp",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "venom",
+      "title": "Venom",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-marvel",
+      "title": "Captain Marvel",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avengers-endgame",
+      "title": "Avengers: Endgame",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dark-phoenix",
+      "title": "Dark Phoenix",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-far-from-home",
+      "title": "Spider-Man: Far From Home",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-new-mutants",
+      "title": "The New Mutants",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "black-widow",
+      "title": "Black Widow",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "venom-let-there-be-carnage",
+      "title": "Venom: Let There Be Carnage",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "eternals",
+      "title": "Eternals",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-no-way-home",
+      "title": "Spider-Man: No Way Home",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "morbius",
+      "title": "Morbius",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "doctor-strange-in-the-multiverse-of-madness",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thor-love-and-thunder",
+      "title": "Thor: Love and Thunder",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "black-panther-wakanda-forever",
+      "title": "Black Panther: Wakanda Forever",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-marvels",
+      "title": "The Marvels",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "madame-web",
+      "title": "Madame Web",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "deadpool-wolverine",
+      "title": "Deadpool & Wolverine",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "venom-the-last-dance",
+      "title": "Venom: The Last Dance",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kraven-the-hunter",
+      "title": "Kraven the Hunter",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-brave-new-world",
+      "title": "Captain America: Brave New World",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thunderbolts",
+      "title": "Thunderbolts*",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-fantastic-four-first-steps",
+      "title": "The Fantastic Four: First Steps",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-brand-new-day",
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avengers-doomsday",
+      "title": "Avengers: Doomsday",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "big-hero-6",
+      "title": "Big Hero 6",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-into-the-spider-verse",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-across-the-spider-verse",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-beyond-the-spider-verse",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dracula-sovereign-of-the-damned",
+      "title": "Dracula: Sovereign of the Damned",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kyoufu-densetsu-kaiki-frankenstein",
+      "title": "Kyoufu Densetsu Kaiki! Frankenstein",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ultimate-avengers",
+      "title": "Ultimate Avengers",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ultimate-avengers-2",
+      "title": "Ultimate Avengers 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-invincible-iron-man",
+      "title": "The Invincible Iron Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "doctor-strange-the-sorcerer-supreme",
+      "title": "Doctor Strange: The Sorcerer Supreme",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "next-avengers-heroes-of-tomorrow",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "hulk-versus",
+      "title": "Hulk Versus",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "planet-hulk",
+      "title": "Planet Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "thor-tales-of-asgard",
+      "title": "Thor: Tales of Asgard",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man-rise-of-technovore",
+      "title": "Iron Man: Rise of Technovore",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man-hulk-heroes-united",
+      "title": "Iron Man & Hulk: Heroes United",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "avengers-confidential-black-widow-punisher",
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "iron-man-captain-america-heroes-united",
+      "title": "Iron Man & Captain America: Heroes United",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-super-hero-adventures-frost-fight",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "hulk-where-monsters-dwell",
+      "title": "Hulk: Where Monsters Dwell",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-rising-secret-warriors",
+      "title": "Marvel Rising: Secret Warriors",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "dr-strange",
+      "title": "Dr. Strange",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america",
+      "title": "Captain America",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-ii-death-too-soon",
+      "title": "Captain America II: Death Too Soon",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredible-hulk-returns",
+      "title": "The Incredible Hulk Returns",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-trial-of-the-incredible-hulk",
+      "title": "The Trial of the Incredible Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-punisher-marvel-tv-film",
+      "title": "The Punisher",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-death-of-the-incredible-hulk",
+      "title": "The Death of the Incredible Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-marvel-tv-film",
+      "title": "Captain America",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-fantastic-four",
+      "title": "The Fantastic Four",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "generation-x",
+      "title": "Generation X",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "nick-fury-agent-of-shield",
+      "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "man-thing",
+      "title": "Man-Thing",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-marvel-tv-film",
+      "title": "Spider-Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredible-hulk-marvel-tv-film",
+      "title": "The Incredible Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "return-of-the-incredible-hulk",
+      "title": "Return of the Incredible Hulk",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-incredible-hulk-married",
+      "title": "The Incredible Hulk: Married",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-strikes-back",
+      "title": "Spider-Man Strikes Back",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-the-dragons-challenge",
+      "title": "Spider-Man: The Dragon's Challenge",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "blade-house-of-chthon",
+      "title": "Blade: House of Chthon",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "inhumans-marvel-tv-film",
+      "title": "Inhumans",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "nightman-world-premiere",
+      "title": "Nightman: World Premiere",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kick-ass",
+      "title": "Kick-Ass",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kick-ass-2",
+      "title": "Kick-Ass 2",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kingsman-the-secret-service",
+      "title": "Kingsman: The Secret Service",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "kingsman-the-golden-circle",
+      "title": "Kingsman: The Golden Circle",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-kings-man",
+      "title": "The King's Man",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "argylle",
+      "title": "Argylle",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "men-in-black",
+      "title": "Men in Black",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "men-in-black-ii",
+      "title": "Men in Black II",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "men-in-black-3",
+      "title": "Men in Black 3",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "men-in-black-international",
+      "title": "Men in Black: International",
+      "type": "movie",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "captain-america-marvel-short",
+      "title": "Captain America",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-man-marvel-short",
+      "title": "Spider-Man",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-consultant",
+      "title": "The Consultant",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "a-funny-thing-happened-on-the-way-to-thors-hammer",
+      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "item-47",
+      "title": "Item 47",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "agent-carter-marvel-short",
+      "title": "Agent Carter",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "all-hail-the-king",
+      "title": "All Hail the King",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "team-thor",
+      "title": "Team Thor",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "team-thor-part-2",
+      "title": "Team Thor: Part 2",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "no-good-deed",
+      "title": "No Good Deed",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "team-darryl",
+      "title": "Team Darryl",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "peters-to-do-list",
+      "title": "Peter's To-Do List",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "deadpool-and-korg-react",
+      "title": "Deadpool and Korg React",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-rising-chasing-ghosts",
+      "title": "Marvel Rising: Chasing Ghosts",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "spider-ham-caught-in-a-ham",
+      "title": "Spider-Ham: Caught in a Ham",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-rising-heart-of-iron",
+      "title": "Marvel Rising: Heart of Iron",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "marvel-rising-battle-of-the-bands",
+      "title": "Marvel Rising: Battle of the Bands",
+      "type": "short",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "a-blank-on-the-map",
+      "title": "A Blank on the Map",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "survival-island",
+      "title": "Survival Island",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "cities-of-the-wild",
+      "title": "Cities of the Wild",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "flying-monsters-3d",
+      "title": "Flying Monsters 3D",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-penguin-king",
+      "title": "The Penguin King",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "david-attenboroughs-natural-history-museum-alive",
+      "title": "David Attenborough's Natural History Museum Alive",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-dream-of-perfection",
+      "title": "The Dream of Perfection",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-year-earth-changed",
+      "title": "The Year Earth Changed",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "listening-through-the-lens",
+      "title": "Listening Through the Lens",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "elizabeth-a-portrait-in-parts",
+      "title": "Elizabeth: A Portrait in Parts",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "david-attenborough-a-life-on-our-planet",
+      "title": "David Attenborough: A Life on Our Planet",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "breaking-boundaries-the-science-of-our-planet",
+      "title": "Breaking Boundaries: The Science of Our Planet",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "attenborough-and-the-mammoth-graveyard",
+      "title": "Attenborough and the Mammoth Graveyard",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "attenborough-and-the-giant-sea-monster",
+      "title": "Attenborough and the Giant Sea Monster",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "david-attenborough-a-life-on-earth",
+      "title": "David Attenborough: A Life on Earth",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "secret-lives-of-orangutans",
+      "title": "Secret Lives of Orangutans",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-deepest-breath",
+      "title": "The Deepest Breath",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "ocean-with-david-attenborough",
+      "title": "Ocean with David Attenborough",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "wild-london",
+      "title": "Wild London",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "a-gorilla-story-told-by-david-attenborough",
+      "title": "A Gorilla Story: Told by David Attenborough",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "making-life-on-earth-attenboroughs-greatest-adventure",
+      "title": "Making Life on Earth: Attenborough's Greatest Adventure",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "david-attenboroughs-100-years-on-planet-earth",
+      "title": "David Attenborough's 100 Years on Planet Earth",
+      "type": "documentary",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "superwog-son-of-a-donkey",
+      "title": "Superwog: Son of a Donkey",
+      "type": "special",
+      "source": "authoritative-list"
+    },
+    {
+      "id": "the-backrooms",
+      "title": "The Backrooms",
+      "type": "tv_show",
+      "source": "authoritative-list"
+    }
+  ],
+  "cover_groups": [
+    {
+      "name": "Star Trek expansion",
+      "scope": "13 television series and 14 films supplied",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Toy Story expansion",
+      "scope": "Toy Story through Toy Story 5 plus Lightyear",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "The Incredibles expansion",
+      "scope": "The Incredibles, Incredibles 2, Incredibles 3",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "How to Train Your Dragon expansion",
+      "scope": "Original trilogy, live-action remake, three television branches, and Homecoming special",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Mario Movie Collection expansion",
+      "scope": "Four specifically titled Mario films supplied",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Scream expansion",
+      "scope": "Seven films and one television series, preserving distinct Scream film productions",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Avatar expansion",
+      "scope": "Five specifically titled James Cameron Avatar films",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Marvel television expansion",
+      "scope": "Supplied live-action and animated television catalogue",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "Marvel film expansion",
+      "scope": "Supplied live-action, animated, direct-to-video/television, imprint, and short-form entries",
+      "status": "expanded",
+      "source": "authoritative-list"
+    },
+    {
+      "name": "David Attenborough film-length cover",
+      "scope": "Individually named film/film-length productions supplied instead of an umbrella set",
+      "status": "expanded",
+      "source": "authoritative-list"
+    }
+  ],
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media."
 }
