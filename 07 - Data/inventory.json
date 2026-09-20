@@ -2068,13 +2068,19 @@
       "id": "the-incredible-hulk-returns",
       "title": "The Incredible Hulk Returns",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; Marvel/Hulk reference",
+      "release_year": 1988,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "the-trial-of-the-incredible-hulk",
       "title": "The Trial of the Incredible Hulk",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; Marvel/Hulk reference",
+      "release_year": 1989,
+      "status": "released",
+      "media_type": "television_film"
     },
     {
       "id": "the-punisher-marvel-tv-film",
