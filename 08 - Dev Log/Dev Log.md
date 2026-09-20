@@ -2,6 +2,19 @@
 
 This folder records meaningful Binge build batches.
 
+## Batch 008 — Initial targeted external verification
+
+**Date:** 2026-09-20  
+**Scope:** Begin external verification of captured media identities and correct production collisions before canonical folder construction.
+
+- Added targeted verification notes in `08 - Dev Log/Batch 008 - Initial external verification.md`.
+- Corrected the How to Train Your Dragon collision: the 2010 animated film and 2025 live-action film are distinct productions and are now separate inventory records. citeturn1search0turn0search0
+- Verified Incredibles 3 as a scheduled Pixar film for June 16, 2028. citeturn1search1
+- Updated Toy Story 5 to released/2026 based on Disney's official film listing. citeturn1search6
+- Updated Scream 7 to released/2026 based on Paramount's current listing. citeturn1search15
+- Reclassified The Punisher: One Last Kill as a special presentation based on Marvel's official catalogue. citeturn0search12
+- No episode structures were generated yet; systematic verification continues before large-scale folder creation.
+
 ## Batch 007 — Capture authoritative inventory
 
 **Date:** 2026-09-20  

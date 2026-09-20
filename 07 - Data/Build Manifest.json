@@ -2,24 +2,24 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 7,
+  "latest_batch": 8,
   "file_count": 25,
   "markdown_count": 20,
-  "media_count": 405,
+  "media_count": 406,
   "episode_count": 0,
   "validation": {
-    "status": "inventory-captured",
+    "status": "targeted-verification",
     "errors": 0,
     "warnings": 0
   },
   "known_issues": [
-    "Episode-level structures have not yet been built.",
-    "Media metadata has not yet been externally verified.",
+    "Inventory is captured but not yet fully externally verified.",
+    "Canonical media folders and episode structures have not yet been generated.",
     "Obsidian plugin configuration has not been added."
   ],
   "next_planned_work": [
-    "Externally verify and normalize the captured inventory.",
-    "Create canonical media folders/notes after verification.",
-    "Build series seasons and episode structures from verified series metadata."
+    "Continue systematic external verification and identity normalization.",
+    "Create verified canonical media folders and notes.",
+    "Build series seasons and episode structures from verified episode metadata."
   ]
 }

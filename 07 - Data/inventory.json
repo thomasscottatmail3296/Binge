@@ -594,7 +594,9 @@
       "id": "how-to-train-your-dragon",
       "title": "How to Train Your Dragon",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 2010,
+      "status": "released"
     },
     {
       "id": "how-to-train-your-dragon-2",
@@ -990,7 +992,9 @@
       "id": "toy-story-5",
       "title": "Toy Story 5",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Disney",
+      "release_year": 2026,
+      "status": "released"
     },
     {
       "id": "lightyear",
@@ -1002,8 +1006,9 @@
       "id": "incredibles-3",
       "title": "Incredibles 3",
       "type": "movie",
-      "source": "authoritative-list",
-      "status": "scheduled"
+      "source": "authoritative-list; Pixar",
+      "status": "scheduled",
+      "release_year": 2028
     },
     {
       "id": "dreamworks-dragons",
@@ -1102,7 +1107,8 @@
       "title": "Scream 7",
       "type": "movie",
       "release_year": 2026,
-      "source": "authoritative-list"
+      "source": "authoritative-list; Paramount",
+      "status": "released"
     },
     {
       "id": "scream-scream-series",
@@ -1223,8 +1229,8 @@
     {
       "id": "the-punisher-one-last-kill",
       "title": "The Punisher: One Last Kill",
-      "type": "tv_show",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Marvel"
     },
     {
       "id": "daredevil",
@@ -2437,6 +2443,14 @@
       "title": "The Backrooms",
       "type": "tv_show",
       "source": "authoritative-list"
+    },
+    {
+      "id": "how-to-train-your-dragon-live-action-2025",
+      "title": "How to Train Your Dragon",
+      "type": "movie",
+      "release_year": 2025,
+      "status": "released",
+      "source": "authoritative-list; verified web sources"
     }
   ],
   "cover_groups": [
