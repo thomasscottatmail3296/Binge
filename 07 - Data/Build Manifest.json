@@ -2,9 +2,9 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 8,
-  "file_count": 25,
-  "markdown_count": 20,
+  "latest_batch": 9,
+  "file_count": 26,
+  "markdown_count": 21,
   "media_count": 406,
   "episode_count": 0,
   "validation": {
@@ -15,10 +15,12 @@
   "known_issues": [
     "Inventory is captured but not yet fully externally verified.",
     "Canonical media folders and episode structures have not yet been generated.",
-    "Obsidian plugin configuration has not been added."
+    "Obsidian plugin configuration has not been added.",
+    "Several same-title and special/short classifications still require verification."
   ],
   "next_planned_work": [
     "Continue systematic external verification and identity normalization.",
+    "Resolve Marvel same-title and short/special boundaries.",
     "Create verified canonical media folders and notes.",
     "Build series seasons and episode structures from verified episode metadata."
   ]
