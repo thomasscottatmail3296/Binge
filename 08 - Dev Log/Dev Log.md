@@ -258,3 +258,18 @@ Continue remaining Marvel same-title and short/special/direct-to-video verificat
 
 ### Next step
 Continue Marvel boundary verification and then broaden verification to the remaining authoritative inventory before physical vault generation.
+
+
+## Batch 014 — Marvel same-title film verification
+
+**Date:** 2026-09-21
+
+- Distinguished the 1994 unreleased *The Fantastic Four* from the 2005 released *Fantastic Four*.
+- Distinguished the 2004 *The Punisher* from the 1989 feature film and the *The Punisher* television series.
+- Identified the supplied *The Incredible Hulk* feature record as the 2008 film, separate from the 1977 television film.
+- Identified the supplied *Spider-Man* feature record as the 2002 film, separate from the 1977 television film and 1978 Toei production.
+- Inventory remains at 405 media records.
+- No speculative titles added.
+
+### Next step
+Continue Marvel boundary verification, then move into broader inventory verification before physical vault generation.
