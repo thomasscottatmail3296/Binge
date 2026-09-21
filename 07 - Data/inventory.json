@@ -2569,7 +2569,10 @@
       "id": "david-attenborough-a-life-on-earth",
       "title": "David Attenborough: A Life on Earth",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Apple TV",
+      "release_year": 2023,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "secret-lives-of-orangutans",
