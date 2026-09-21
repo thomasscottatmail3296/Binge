@@ -301,3 +301,18 @@ Move from the remaining Marvel edge cases into broader verification of the autho
 
 ### Next step
 Continue systematic verification of ambiguous series, miniseries, web series, and unusual episode structures across the authoritative inventory.
+
+
+## Batch 017 — Web and animated series verification
+
+**Date:** 2026-09-21
+
+- Verified *Extra Gear* as a distinct *Top Gear* online companion/web series.
+- Verified *Sassy the Sasquatch* as a 2022 six-part animated series; did not add its later behind-the-scenes special because it was not in the authoritative inventory.
+- Verified *The Backrooms* as Kane Parsons' ongoing web series.
+- Verified *President Curtis* as a distinct 2026 Adult Swim animated series.
+- Inventory remains at 405 media records.
+- No speculative media added.
+
+### Next step
+Continue verification of unusual series, future/scheduled titles, documentary/special boundaries, and episode-level metadata.
