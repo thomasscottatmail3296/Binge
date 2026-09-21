@@ -2587,7 +2587,10 @@
       "id": "the-deepest-breath",
       "title": "The Deepest Breath",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; A24",
+      "release_year": 2023,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "ocean-with-david-attenborough",
