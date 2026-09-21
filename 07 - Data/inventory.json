@@ -2614,7 +2614,10 @@
       "id": "a-gorilla-story-told-by-david-attenborough",
       "title": "A Gorilla Story: Told by David Attenborough",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; Silverback Films",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "making-life-on-earth-attenboroughs-greatest-adventure",
