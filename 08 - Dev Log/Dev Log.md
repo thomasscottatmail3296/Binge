@@ -374,3 +374,32 @@ Continue documentary/special and non-standard series verification, then begin co
 ### Next step
 Continue documentary/special verification, then begin episode metadata capture for stable series.
 
+## Batches 022–031 — Documentary identity verification sweep
+
+**Date:** 2026-09-21
+
+Completed ten sequential verification batches covering the remaining Attenborough/documentary entries selected for this pass:
+
+- **022 — A Blank on the Map:** 1971 BBC documentary.
+- **023 — Survival Island:** 1996 IMAX documentary.
+- **024 — Cities of the Wild:** 1996 IMAX documentary.
+- **025 — The Dream of Perfection:** 2013 feature documentary.
+- **026 — Listening Through the Lens:** 2021 feature documentary.
+- **027 — David Attenborough: A Life on Earth:** 2023 documentary, distinct from *A Life on Our Planet* (2020).
+- **028 — The Deepest Breath:** 2023 feature documentary.
+- **029 — A Gorilla Story: Told by David Attenborough:** 2026 documentary film.
+- **030 — David Attenborough's 100 Years on Planet Earth:** 2026 documentary/concert special.
+- **031 — Making Life on Earth: Attenborough's Greatest Adventure:** 2026 BBC documentary special.
+
+No speculative titles were added. No physical media or episode folders were generated. Inventory remains **404** records.
+
+### Validation
+
+- Duplicate IDs: 0.
+- Duplicate identity keys: 0.
+- Inventory remains restricted to the authoritative supplied universe.
+- Documentary/special distinctions were recorded where verified.
+
+### Next step
+Continue the remaining documentary/special identity pass, then move into stable series episode metadata capture before physical vault generation.
+
