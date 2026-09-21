@@ -2497,7 +2497,10 @@
       "id": "the-dream-of-perfection",
       "title": "The Dream of Perfection",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Screen Australia",
+      "release_year": 2013,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "the-year-earth-changed",
