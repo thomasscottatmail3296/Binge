@@ -359,3 +359,18 @@ Continue documentary/special verification, then resume episode metadata capture 
 
 ### Next step
 Continue documentary/special and non-standard series verification, then begin collecting episode metadata for stable series.
+
+## Batch 021 — Documentary, special, and non-standard series verification
+
+**Date:** 2026-09-21
+
+- Verified *Son of a Donkey / Superwog: Son of a Donkey* as a distinct 2025 Netflix series with 1 season and 6 episodes.
+- Verified *How to Train Your Dragon: Homecoming* as a 2019 animated special and removed the duplicate movie-type copy.
+- Verified selected David Attenborough productions: *David Attenborough's Natural History Museum Alive* (2014), *Flying Monsters 3D* (2010), *The Penguin King* (2012), *The Year Earth Changed* (2021 special), *Breaking Boundaries: The Science of Our Planet* (2021), *Elizabeth: A Portrait in Parts* (2022), *David Attenborough: A Life on Our Planet* (2020), *Secret Lives of Orangutans* (2024), *Attenborough and the Mammoth Graveyard* (2021), *Attenborough and the Giant Sea Monster* (2024 special), and *Wild London* (2026).
+- Inventory decreased from 405 to **404** solely because the duplicate Homecoming record was removed.
+- No speculative media were added.
+- No physical media or episode folders were generated.
+
+### Next step
+Continue documentary/special verification, then begin episode metadata capture for stable series.
+
