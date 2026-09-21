@@ -2631,8 +2631,11 @@
     {
       "id": "david-attenboroughs-100-years-on-planet-earth",
       "title": "David Attenborough's 100 Years on Planet Earth",
-      "type": "documentary",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; BBC",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "documentary_special"
     },
     {
       "id": "superwog-son-of-a-donkey",
