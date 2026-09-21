@@ -672,7 +672,10 @@
       "id": "project-hail-mary",
       "title": "Project Hail Mary",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Amazon MGM Studios",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "ratatouille",
@@ -1148,7 +1151,10 @@
       "id": "avatar-fire-and-ash",
       "title": "Avatar: Fire and Ash",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Disney; 20th Century Studios",
+      "release_year": 2025,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "avatar-4",
@@ -1924,13 +1930,19 @@
       "id": "spider-man-brand-new-day",
       "title": "Spider-Man: Brand New Day",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Sony Pictures; Marvel",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "avengers-doomsday",
       "title": "Avengers: Doomsday",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Marvel; Disney",
+      "release_year": 2026,
+      "status": "scheduled",
+      "media_type": "feature_film"
     },
     {
       "id": "big-hero-6",
