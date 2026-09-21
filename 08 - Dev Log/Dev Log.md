@@ -287,3 +287,17 @@ Continue Marvel boundary verification, then move into broader inventory verifica
 
 ### Next step
 Move from the remaining Marvel edge cases into broader verification of the authoritative inventory, prioritizing ambiguous titles and future/scheduled records.
+
+
+## Batch 016 — Recent series verification
+
+**Date:** 2026-09-21
+
+- Verified *The Summer Hikaru Died* as a 2025 anime series; Season 1 has 12 episodes.
+- Verified *The War Between the Land and the Sea* as a 2025 five-episode television miniseries.
+- Began broader non-Marvel verification after the Marvel identity pass.
+- Inventory remains at 405 media records.
+- No speculative media added and no physical media folders generated.
+
+### Next step
+Continue systematic verification of ambiguous series, miniseries, web series, and unusual episode structures across the authoritative inventory.
