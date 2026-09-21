@@ -1474,7 +1474,10 @@
       "id": "spider-man",
       "title": "Spider-Man",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2002,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "daredevil-marvel-live",
@@ -1498,7 +1501,10 @@
       "id": "the-punisher-marvel-live",
       "title": "The Punisher",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2004,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "spider-man-2",
@@ -1522,7 +1528,10 @@
       "id": "fantastic-four",
       "title": "Fantastic Four",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1994,
+      "status": "unreleased",
+      "media_type": "unreleased_feature_film"
     },
     {
       "id": "x-men-the-last-stand",
@@ -1558,7 +1567,10 @@
       "id": "the-incredible-hulk",
       "title": "The Incredible Hulk",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; IMDb",
+      "release_year": 2008,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "punisher-war-zone",
@@ -1672,7 +1684,10 @@
       "id": "fantastic-four-marvel-live",
       "title": "Fantastic Four",
       "type": "movie",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2005,
+      "status": "released",
+      "media_type": "feature_film"
     },
     {
       "id": "deadpool",
