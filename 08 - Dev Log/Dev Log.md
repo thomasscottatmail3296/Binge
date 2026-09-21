@@ -273,3 +273,17 @@ Continue Marvel boundary verification and then broaden verification to the remai
 
 ### Next step
 Continue Marvel boundary verification, then move into broader inventory verification before physical vault generation.
+
+
+## Batch 015 — Marvel pilot and special verification
+
+**Date:** 2026-09-21
+
+- Corrected *Blade: House of Chthon* to 2006 and retained its feature-length television-pilot classification.
+- Confirmed *The Punisher: One Last Kill* as a 2026 television special.
+- Checked the Marvel Rising special/short boundary without expanding the authoritative inventory beyond supplied titles.
+- Inventory remains at 405 media records.
+- No speculative media added.
+
+### Next step
+Move from the remaining Marvel edge cases into broader verification of the authoritative inventory, prioritizing ambiguous titles and future/scheduled records.
