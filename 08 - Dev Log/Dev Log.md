@@ -345,3 +345,17 @@ Continue current-date verification of scheduled titles and non-standard document
 
 ### Next step
 Continue documentary/special verification, then resume episode metadata capture for stable series.
+
+
+## Batch 020 — Documentary/miniseries verification
+
+**Date:** 2026-09-21
+
+- Reclassified *Jeffrey Epstein: Filthy Rich* as a documentary miniseries with one season and four episodes.
+- Verified *Trainwreck: The Astroworld Tragedy* as a standalone 2025 documentary film.
+- Verified *Trainwreck: Poop Cruise* as a standalone 2025 documentary film.
+- Inventory remains at 405 media records.
+- No speculative media added.
+
+### Next step
+Continue documentary/special and non-standard series verification, then begin collecting episode metadata for stable series.
