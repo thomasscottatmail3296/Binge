@@ -484,7 +484,10 @@
       "id": "the-summer-hikaru-died",
       "title": "The Summer Hikaru Died",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 2025,
+      "status": "ongoing",
+      "media_type": "anime_series"
     },
     {
       "id": "the-umbrella-academy",
@@ -508,7 +511,10 @@
       "id": "the-war-between-the-land-and-the-sea",
       "title": "The War Between the Land and the Sea",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb",
+      "release_year": 2025,
+      "status": "ended",
+      "media_type": "tv_miniseries"
     },
     {
       "id": "the-winchesters",
