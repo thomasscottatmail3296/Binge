@@ -316,3 +316,18 @@ Continue systematic verification of ambiguous series, miniseries, web series, an
 
 ### Next step
 Continue verification of unusual series, future/scheduled titles, documentary/special boundaries, and episode-level metadata.
+
+
+## Batch 018 — Current feature film verification
+
+**Date:** 2026-09-21
+
+- Verified *Project Hail Mary* as released in 2026.
+- Verified *Avatar: Fire and Ash* as released in 2025.
+- Verified *Spider-Man: Brand New Day* as released in 2026.
+- Kept *Avengers: Doomsday* as scheduled for December 18, 2026.
+- Inventory remains at 405 media records.
+- No speculative media added.
+
+### Next step
+Continue current-date verification of scheduled titles and non-standard documentaries, specials, and miniseries.
