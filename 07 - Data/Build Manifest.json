@@ -2,9 +2,9 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 41,
-  "file_count": 59,
-  "markdown_count": 54,
+  "latest_batch": 51,
+  "file_count": 69,
+  "markdown_count": 64,
   "media_count": 404,
   "episode_count": 0,
   "validation": {
@@ -21,8 +21,8 @@
   ],
   "next_planned_work": [
     "Continue identity verification across the remaining authoritative inventory.",
-    "Capture stable series episode metadata and verify season/episode numbering.",
-    "Begin canonical media folder generation after inventory verification is sufficiently stable.",
-    "Build franchise and universe indexes after canonical media identities are established."
+    "Resolve unusual series, specials, shorts, pilots, and non-TV production boundaries.",
+    "Capture episode metadata for stable verified series.",
+    "Begin canonical media folder generation after inventory verification is sufficiently stable."
   ]
 }
