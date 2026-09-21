@@ -6,7 +6,10 @@
       "id": "2-broke-girls",
       "title": "2 Broke Girls",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2011,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "9-1-1",
@@ -36,7 +39,10 @@
       "id": "better-call-saul",
       "title": "Better Call Saul",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; Stan Australia",
+      "release_year": 2015,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "big-mouth",
@@ -48,13 +54,19 @@
       "id": "bojack-horseman",
       "title": "BoJack Horseman",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; JustWatch Australia",
+      "release_year": 2014,
+      "status": "ended",
+      "media_type": "animated_series"
     },
     {
       "id": "breaking-bad",
       "title": "Breaking Bad",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; AMC",
+      "release_year": 2008,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "csi",
@@ -183,7 +195,10 @@
       "id": "gravity-falls",
       "title": "Gravity Falls",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Disney+ Australia; Wikipedia",
+      "release_year": 2012,
+      "status": "ended",
+      "media_type": "animated_series"
     },
     {
       "id": "greys-anatomy",
@@ -201,7 +216,10 @@
       "id": "house-md",
       "title": "House M.D.",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2004,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "housos",
@@ -261,7 +279,10 @@
       "id": "lucifer",
       "title": "Lucifer",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; DC",
+      "release_year": 2016,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "manifest",
@@ -331,7 +352,10 @@
       "id": "reacher",
       "title": "Reacher",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Prime Video",
+      "release_year": 2022,
+      "status": "ongoing",
+      "media_type": "tv_series"
     },
     {
       "id": "red-dwarf",
@@ -493,7 +517,10 @@
       "id": "the-umbrella-academy",
       "title": "The Umbrella Academy",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix",
+      "release_year": 2019,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "the-vindicators",
@@ -562,7 +589,10 @@
       "id": "young-sheldon",
       "title": "Young Sheldon",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Paramount Press Express; Wikipedia",
+      "release_year": 2017,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "izombie",
