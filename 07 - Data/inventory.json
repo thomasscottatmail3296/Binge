@@ -2452,7 +2452,10 @@
       "id": "survival-island",
       "title": "Survival Island",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; IMDb; Giant Screen Cinema Association",
+      "release_year": 1996,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "cities-of-the-wild",
