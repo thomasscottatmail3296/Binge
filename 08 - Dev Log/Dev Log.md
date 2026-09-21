@@ -403,3 +403,33 @@ No speculative titles were added. No physical media or episode folders were gene
 ### Next step
 Continue the remaining documentary/special identity pass, then move into stable series episode metadata capture before physical vault generation.
 
+
+
+## Batches 032–041 — Core series identity verification
+
+**Date:** 2026-09-21
+
+Completed ten sequential series verification batches:
+
+- **032 — 2 Broke Girls:** 2011–2017 CBS sitcom; 6 seasons / 138 episodes.
+- **033 — Better Call Saul:** 2015–2022 AMC series; 6 seasons / 63 episodes.
+- **034 — BoJack Horseman:** 2014 animated series; 6 seasons.
+- **035 — Breaking Bad:** 2008–2013 AMC series.
+- **036 — Gravity Falls:** 2012–2016 animated series; 2 seasons / 40 episodes.
+- **037 — House M.D.:** 2004–2012 television series; 8 seasons / 177 episodes.
+- **038 — Lucifer:** 2016–2021 television series; 6 seasons / 93 episodes.
+- **039 — Reacher:** 2022–present Prime Video series; 4 released seasons, with continuation in production.
+- **040 — The Umbrella Academy:** 2019–2024 Netflix series; 4 seasons / 36 episodes.
+- **041 — Young Sheldon:** 2017–2024 CBS sitcom; 7 seasons / 141 episodes.
+
+No new titles were added. No speculative records were created. No physical media or episode folders were generated.
+
+### Validation
+
+- Inventory remains **404** media records.
+- Duplicate IDs remain at zero.
+- Series-level identity metadata was updated only for the ten verified records.
+- Episode-level metadata remains a separate planned phase.
+
+### Next step
+Continue identity verification for the remaining authoritative inventory, then begin systematic episode metadata capture and canonical folder generation once the inventory is sufficiently stable.
