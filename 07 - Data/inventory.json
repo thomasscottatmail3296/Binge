@@ -621,12 +621,6 @@
       "source": "authoritative-list"
     },
     {
-      "id": "how-to-train-your-dragon-homecoming",
-      "title": "How to Train Your Dragon: Homecoming",
-      "type": "movie",
-      "source": "authoritative-list"
-    },
-    {
       "id": "how-to-train-your-dragon-the-hidden-world",
       "title": "How to Train Your Dragon: The Hidden World",
       "type": "movie",
@@ -1069,7 +1063,10 @@
       "id": "how-to-train-your-dragon-homecoming-httyd-special",
       "title": "How to Train Your Dragon: Homecoming",
       "type": "special",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Australian Classification; ABC iview",
+      "release_year": 2019,
+      "status": "released",
+      "media_type": "animated_special"
     },
     {
       "id": "super-mario-bros-the-great-mission-to-rescue-princess-peach",
@@ -2464,19 +2461,28 @@
       "id": "flying-monsters-3d",
       "title": "Flying Monsters 3D",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2010,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "the-penguin-king",
       "title": "The Penguin King",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2012,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "david-attenboroughs-natural-history-museum-alive",
       "title": "David Attenborough's Natural History Museum Alive",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2014,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "the-dream-of-perfection",
@@ -2487,8 +2493,11 @@
     {
       "id": "the-year-earth-changed",
       "title": "The Year Earth Changed",
-      "type": "documentary",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; Apple TV Press; Apple TV",
+      "release_year": 2021,
+      "status": "released",
+      "media_type": "documentary_special"
     },
     {
       "id": "listening-through-the-lens",
@@ -2500,31 +2509,46 @@
       "id": "elizabeth-a-portrait-in-parts",
       "title": "Elizabeth: A Portrait in Parts",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Paramount Press Express; Apple TV",
+      "release_year": 2022,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "david-attenborough-a-life-on-our-planet",
       "title": "David Attenborough: A Life on Our Planet",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; Netflix Media Center",
+      "release_year": 2020,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "breaking-boundaries-the-science-of-our-planet",
       "title": "Breaking Boundaries: The Science of Our Planet",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; Netflix Media Center",
+      "release_year": 2021,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "attenborough-and-the-mammoth-graveyard",
       "title": "Attenborough and the Mammoth Graveyard",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; BBC",
+      "release_year": 2021,
+      "status": "released",
+      "media_type": "documentary_special"
     },
     {
       "id": "attenborough-and-the-giant-sea-monster",
       "title": "Attenborough and the Giant Sea Monster",
-      "type": "documentary",
-      "source": "authoritative-list"
+      "type": "special",
+      "source": "authoritative-list; BBC; IMDb",
+      "release_year": 2024,
+      "status": "released",
+      "media_type": "documentary_special"
     },
     {
       "id": "david-attenborough-a-life-on-earth",
@@ -2536,7 +2560,10 @@
       "id": "secret-lives-of-orangutans",
       "title": "Secret Lives of Orangutans",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; Silverback Films",
+      "release_year": 2024,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "the-deepest-breath",
@@ -2557,7 +2584,10 @@
       "id": "wild-london",
       "title": "Wild London",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; London Wildlife Trust; BBC; JustWatch",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "a-gorilla-story-told-by-david-attenborough",
@@ -2583,8 +2613,11 @@
     {
       "id": "superwog-son-of-a-donkey",
       "title": "Superwog: Son of a Donkey",
-      "type": "special",
-      "source": "authoritative-list"
+      "type": "tv_show",
+      "source": "authoritative-list; Netflix; Netflix Media Center",
+      "release_year": 2025,
+      "status": "ended",
+      "media_type": "tv_series"
     },
     {
       "id": "the-backrooms",
@@ -2666,5 +2699,5 @@
       "source": "authoritative-list"
     }
   ],
-  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 added targeted identity/type verification. Batch 010 adds Marvel television-film, feature-film, and Marvel Rising special identity metadata. Batch 011 resolves additional Marvel pilot/special identities. LEGO Marvel Avengers: Code Red and Mission Demolition are animated specials; Strange Tails is an animated series. The supplied Inhumans movie entry was deduplicated against the 2017 television series because its IMAX release consisted of the first two series episodes rather than a separate production. Legacy Hulk, Spider-Man, Blade, Dr. Strange, and Nightman entries were normalized by production/release form."
+  "notes": "Captured only from the authoritative lists supplied in the current conversation. Anything described as an existing source was ignored as a source of inventory. Duplicate copies were ignored. Distinct productions sharing a display title were retained as separate records with unique IDs. No unrelated titles were inferred. Explicitly named future/scheduled titles are retained as intended media. Batch 007 normalization removed exact duplicate copies where the same production was supplied both in the base list and an expansion; distinct same-title productions remain separate. Batch 009 added targeted identity/type verification. Batch 010 adds Marvel television-film, feature-film, and Marvel Rising special identity metadata. Batch 011 resolves additional Marvel pilot/special identities. LEGO Marvel Avengers: Code Red and Mission Demolition are animated specials; Strange Tails is an animated series. The supplied Inhumans movie entry was deduplicated against the 2017 television series because its IMAX release consisted of the first two series episodes rather than a separate production. Legacy Hulk, Spider-Man, Blade, Dr. Strange, and Nightman entries were normalized by production/release form. Batch 021 verified Superwog: Son of a Donkey, selected David Attenborough documentary/special identities, and How to Train Your Dragon: Homecoming; removed the duplicate Homecoming movie-type copy in favor of the verified 2019 animated special record."
 }
