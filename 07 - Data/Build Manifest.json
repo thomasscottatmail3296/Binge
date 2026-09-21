@@ -2,10 +2,10 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 20,
-  "file_count": 38,
-  "markdown_count": 33,
-  "media_count": 405,
+  "latest_batch": 21,
+  "file_count": 39,
+  "markdown_count": 34,
+  "media_count": 404,
   "episode_count": 0,
   "validation": {
     "status": "targeted-verification",
@@ -13,16 +13,15 @@
     "warnings": 0
   },
   "known_issues": [
-    "Inventory is captured but not yet fully externally verified.",
+    "Inventory is substantially verified but still contains entries requiring broader identity and metadata verification.",
     "Canonical media folders and episode structures have not yet been generated.",
     "Obsidian plugin configuration has not been added.",
-    "Marvel same-title and special/short/direct-to-video boundaries still require additional verification.",
-    "Some non-TV supplied media types require a later structural decision before physical folder generation."
+    "Some non-TV supplied media types still require structural decisions before physical folder generation."
   ],
   "next_planned_work": [
     "Continue documentary, special, and non-standard series verification.",
-    "Verify remaining future/scheduled media.",
-    "Capture episode metadata for stable series, beginning with verified miniseries where practical.",
+    "Resolve remaining ambiguous supplied identities and same-title productions.",
+    "Capture episode metadata for stable series where reliable authoritative episode lists are available.",
     "Create canonical media folders after inventory verification is sufficiently stable."
   ]
 }
