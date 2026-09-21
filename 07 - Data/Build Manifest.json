@@ -2,9 +2,9 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 13,
-  "file_count": 31,
-  "markdown_count": 26,
+  "latest_batch": 14,
+  "file_count": 32,
+  "markdown_count": 27,
   "media_count": 405,
   "episode_count": 0,
   "validation": {
@@ -20,9 +20,9 @@
     "Some non-TV supplied media types require a later structural decision before physical folder generation."
   ],
   "next_planned_work": [
-    "Continue Marvel same-title and short/special/direct-to-video boundary verification.",
-    "Continue broader identity and metadata verification across the authoritative inventory.",
-    "Create verified canonical media folders and notes after inventory stabilization.",
+    "Continue Marvel television/direct-to-video/special boundary verification.",
+    "Verify remaining ambiguous media identities across the authoritative inventory.",
+    "Create canonical media folders and notes after inventory stabilization.",
     "Build series seasons and episode structures from verified episode metadata."
   ]
 }
