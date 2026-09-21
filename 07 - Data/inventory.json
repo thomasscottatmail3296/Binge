@@ -807,7 +807,10 @@
       "id": "the-crash",
       "title": "The Crash",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "trainwreck-the-astroworld-tragedy",
@@ -2536,7 +2539,10 @@
       "id": "ocean-with-david-attenborough",
       "title": "Ocean with David Attenborough",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Silverback Films; National Geographic",
+      "release_year": 2025,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "wild-london",
@@ -2554,7 +2560,10 @@
       "id": "making-life-on-earth-attenboroughs-greatest-adventure",
       "title": "Making Life on Earth: Attenborough's Greatest Adventure",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; PBS; BBC",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "david-attenboroughs-100-years-on-planet-earth",
