@@ -2,9 +2,9 @@
   "project": "Binge",
   "version": "0.1.0",
   "source_version": "from-scratch",
-  "latest_batch": 18,
-  "file_count": 36,
-  "markdown_count": 31,
+  "latest_batch": 19,
+  "file_count": 37,
+  "markdown_count": 32,
   "media_count": 405,
   "episode_count": 0,
   "validation": {
@@ -20,9 +20,9 @@
     "Some non-TV supplied media types require a later structural decision before physical folder generation."
   ],
   "next_planned_work": [
-    "Continue current-date verification of future/scheduled titles.",
-    "Verify ambiguous documentaries, specials, and miniseries.",
-    "Capture episode-level metadata for verified series.",
-    "Create canonical media folders and notes after inventory stabilization."
+    "Continue documentary and special verification.",
+    "Verify remaining future/scheduled and unusual media.",
+    "Capture episode-level metadata for stable series.",
+    "Begin canonical media folder generation once inventory verification reaches sufficient stability."
   ]
 }
