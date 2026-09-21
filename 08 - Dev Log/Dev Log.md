@@ -331,3 +331,17 @@ Continue verification of unusual series, future/scheduled titles, documentary/sp
 
 ### Next step
 Continue current-date verification of scheduled titles and non-standard documentaries, specials, and miniseries.
+
+
+## Batch 019 — Documentary verification
+
+**Date:** 2026-09-21
+
+- Verified *The Crash* as a 2026 Netflix documentary film.
+- Verified *Ocean with David Attenborough* as a 2025 feature-length documentary.
+- Recorded the supplied *Making Life on Earth: Attenborough's Greatest Adventure* as a 2026 documentary film/special based on current PBS documentation for the production.
+- Inventory remains at 405 media records.
+- No speculative titles added.
+
+### Next step
+Continue documentary/special verification, then resume episode metadata capture for stable series.
