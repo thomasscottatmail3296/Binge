@@ -2443,7 +2443,10 @@
       "id": "a-blank-on-the-map",
       "title": "A Blank on the Map",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 1971,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "survival-island",
