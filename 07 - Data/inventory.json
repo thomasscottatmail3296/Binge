@@ -801,7 +801,10 @@
       "id": "jeffrey-epstein-filthy-rich",
       "title": "Jeffrey Epstein: Filthy Rich",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix",
+      "media_type": "documentary_miniseries",
+      "release_year": 2020,
+      "status": "ended"
     },
     {
       "id": "the-crash",
@@ -816,13 +819,19 @@
       "id": "trainwreck-the-astroworld-tragedy",
       "title": "Trainwreck: The Astroworld Tragedy",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix",
+      "release_year": 2025,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "trainwreck-poop-cruise",
       "title": "Trainwreck: Poop Cruise",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix",
+      "release_year": 2025,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "star-trek-the-original-series",
