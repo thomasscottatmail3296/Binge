@@ -27,13 +27,19 @@
       "id": "american-dad",
       "title": "American Dad!",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; JustWatch Australia; TV Guide",
+      "release_year": 2005,
+      "status": "ongoing",
+      "media_type": "animated_series"
     },
     {
       "id": "attack-on-titan",
       "title": "Attack on Titan",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Disney+; Wikipedia",
+      "release_year": 2013,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "better-call-saul",
@@ -126,19 +132,28 @@
       "id": "cyberpunk-edgerunners",
       "title": "Cyberpunk: Edgerunners",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Netflix; CD PROJEKT RED",
+      "release_year": 2022,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "death-note",
       "title": "Death Note",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Nippon TV; Wikipedia",
+      "release_year": 2006,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "demon-slayer",
       "title": "Demon Slayer",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2019,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "doctor-who",
@@ -177,7 +192,10 @@
       "id": "family-guy",
       "title": "Family Guy",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Disney+; FOX/TheFutonCritic",
+      "release_year": 1999,
+      "status": "ongoing",
+      "media_type": "animated_series"
     },
     {
       "id": "futurama",
@@ -261,7 +279,10 @@
       "id": "jujutsu-kaisen",
       "title": "Jujutsu Kaisen",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia",
+      "release_year": 2020,
+      "status": "ongoing",
+      "media_type": "anime_series"
     },
     {
       "id": "k-9",
@@ -337,7 +358,10 @@
       "id": "ouran-high-school-host-club",
       "title": "Ouran High School Host Club",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Wikipedia; TV Guide",
+      "release_year": 2006,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "president-curtis",
@@ -424,7 +448,10 @@
       "id": "stuck-in-the-store",
       "title": "Stuck in the Store",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Rotten Tomatoes; TheTVDB",
+      "release_year": 2016,
+      "status": "ended",
+      "media_type": "short_series"
     },
     {
       "id": "supernatural",
@@ -436,7 +463,10 @@
       "id": "supernatural-the-animation",
       "title": "Supernatural: The Animation",
       "type": "tv_show",
-      "source": "authoritative-list"
+      "source": "authoritative-list; TV Guide; JustWatch Australia",
+      "release_year": 2011,
+      "status": "ended",
+      "media_type": "anime_series"
     },
     {
       "id": "superwog",
