@@ -1240,7 +1240,10 @@
       "id": "the-punisher-one-last-kill",
       "title": "The Punisher: One Last Kill",
       "type": "special",
-      "source": "authoritative-list; Marvel"
+      "source": "authoritative-list; Marvel",
+      "release_year": 2026,
+      "status": "released",
+      "media_type": "television_special"
     },
     {
       "id": "daredevil",
@@ -2218,9 +2221,9 @@
       "id": "blade-house-of-chthon",
       "title": "Blade: House of Chthon",
       "type": "movie",
-      "source": "authoritative-list; DVD documentation; Wikipedia",
+      "source": "authoritative-list; Marvel; Wikipedia",
       "media_type": "feature_length_television_pilot",
-      "release_year": 2007,
+      "release_year": 2006,
       "status": "released"
     },
     {
