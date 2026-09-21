@@ -2515,7 +2515,10 @@
       "id": "listening-through-the-lens",
       "title": "Listening Through the Lens",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; Allegro Films; Medici.tv",
+      "release_year": 2021,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "elizabeth-a-portrait-in-parts",
