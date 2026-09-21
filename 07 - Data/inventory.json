@@ -2461,7 +2461,10 @@
       "id": "cities-of-the-wild",
       "title": "Cities of the Wild",
       "type": "documentary",
-      "source": "authoritative-list"
+      "source": "authoritative-list; IMDb; David Attenborough filmography",
+      "release_year": 1996,
+      "status": "released",
+      "media_type": "documentary_film"
     },
     {
       "id": "flying-monsters-3d",
