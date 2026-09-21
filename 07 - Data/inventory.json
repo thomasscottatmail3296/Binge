@@ -144,7 +144,7 @@
       "id": "extra-gear",
       "title": "Extra Gear",
       "type": "tv_show",
-      "source": "authoritative-list; Wikipedia; IMDb",
+      "source": "authoritative-list; BBC Studios; Wikipedia",
       "release_year": 2016,
       "status": "ended",
       "media_type": "web_series"
@@ -322,10 +322,10 @@
       "id": "president-curtis",
       "title": "President Curtis",
       "type": "tv_show",
-      "source": "authoritative-list; Wikipedia; IMDb",
+      "source": "authoritative-list; Adult Swim; Warner Bros. Discovery",
       "release_year": 2026,
       "status": "released",
-      "media_type": "tv_series"
+      "media_type": "animated_series"
     },
     {
       "id": "reacher",
@@ -361,7 +361,7 @@
       "id": "sassy-the-sasquatch",
       "title": "Sassy the Sasquatch",
       "type": "tv_show",
-      "source": "authoritative-list; Tubi; IMDb",
+      "source": "authoritative-list; IMDb; TheTVDB",
       "release_year": 2022,
       "status": "ended",
       "media_type": "web_series"
@@ -2560,7 +2560,7 @@
       "id": "the-backrooms",
       "title": "The Backrooms",
       "type": "tv_show",
-      "source": "authoritative-list; Wikipedia",
+      "source": "authoritative-list; IMDb",
       "release_year": 2022,
       "status": "ongoing",
       "media_type": "web_series"
