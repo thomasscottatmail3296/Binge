@@ -2622,11 +2622,11 @@
     {
       "id": "making-life-on-earth-attenboroughs-greatest-adventure",
       "title": "Making Life on Earth: Attenborough's Greatest Adventure",
-      "type": "documentary",
-      "source": "authoritative-list; PBS; BBC",
+      "type": "special",
+      "source": "authoritative-list; BBC",
       "release_year": 2026,
       "status": "released",
-      "media_type": "documentary_film"
+      "media_type": "documentary_special"
     },
     {
       "id": "david-attenboroughs-100-years-on-planet-earth",
